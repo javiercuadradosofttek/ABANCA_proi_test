@@ -1,0 +1,7 @@
+package com.softtek.modulo1;
+
+import javax.servlet.http.HttpServlet;
+
+public class Test extends HttpServlet {
+
+}
